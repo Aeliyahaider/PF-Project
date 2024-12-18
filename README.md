@@ -33,6 +33,6 @@ When viewing books, the system will show all the books in the library with their
 When deleting a book, type the name of the book to remove it from the library.
 
 Team Members:
-[Your Name]: Aeliya Haider
+Aeliya Haider and Mohsin Ahmed
 [Group Member 1]: C++ Developer
 [Group Member 2]: File Management and UI Design
